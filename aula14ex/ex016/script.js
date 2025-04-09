@@ -1,4 +1,6 @@
-function contar(){
+// Comentário de teste para commit
+
+    function contar(){
     var inicio = document.getElementById('inicio')
     var passo = document.getElementById('passo')
     var fim = document.getElementById('fim')
